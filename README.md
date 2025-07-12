@@ -18,9 +18,6 @@
 
 ### Scaling Strategy
 - Frontend: Use CDN (CloudFront) for global distribution
-- API: Implement auto-scaling based on request volume
-- Database: Read replicas for read-heavy operations
-- Caching: Redis for frequently accessed data
 
 ### Sync Logic
 - Implement WebSockets for real-time updates
